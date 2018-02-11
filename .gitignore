@@ -15,3 +15,6 @@ gradle-app.setting
 
 # Compiled class file
 *.class
+
+# Build dir
+sandbox/build/*
