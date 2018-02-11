@@ -18,3 +18,4 @@ gradle-app.setting
 
 # Build dir
 sandbox/build/*
+.idea/workspace.xml
