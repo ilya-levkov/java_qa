@@ -18,4 +18,5 @@ gradle-app.setting
 
 # Build dir
 sandbox/build/*
+addressbook-web-tests/build/*
 .idea/workspace.xml
