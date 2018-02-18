@@ -18,7 +18,7 @@ public class Equation {
         if (d > 0) {
             n = 2;
         } else {
-            if (a == 0) {
+            if (d == 0) {
                 n = 1;
             } else {
                 n = 0;
